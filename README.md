@@ -19,11 +19,12 @@ This app allows users to create a packing list for a trip. You can add items you
 
 ## 🚀 How to Use
 
-1. **Add an item:** Use the form to select a quantity, enter an item description, and click "Add".
-2. **Pack an item:** Click the checkbox next to an item to mark it as packed. The item will be struck through.
-3. **Delete an item:** Click the "❌" button to remove an item from the list.
-4. **Sort the list:** Use the dropdown menu in the list section to sort your items.
-5. **Clear the list:** Click the "Clear list" button to remove all items. You will be asked for confirmation.
+1. **Go to this site:** ![Far Away](darkoray.github.io/Far-Away-App/)
+2. **Add an item:** Use the form to select a quantity, enter an item description, and click "Add".
+3. **Pack an item:** Click the checkbox next to an item to mark it as packed. The item will be struck through.
+4. **Delete an item:** Click the "❌" button to remove an item from the list.
+5. **Sort the list:** Use the dropdown menu in the list section to sort your items.
+6. **Clear the list:** Click the "Clear list" button to remove all items. You will be asked for confirmation.
 
 ---
 
